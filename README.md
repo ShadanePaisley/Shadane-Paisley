@@ -1,5 +1,5 @@
 # Shadane-Paisley
-My name is Shadane Paisley abd I am currently a sophomore at University of South Florida, where I am pursuing a degree in Econometrics and Quantitative Economics, along with a second major in Finance with a concentration in FinTech. My academic focus centers on the intersection of data, markets, and technology, with a strong interest in applying analytical and technical skills to solve real-world financial challenges.
+My name is Shadane Paisley and I am currently a sophomore at University of South Florida, where I am pursuing a degree in Econometrics and Quantitative Economics, along with a second major in Finance with a concentration in FinTech. My academic focus centers on the intersection of data, markets, and technology, with a strong interest in applying analytical and technical skills to solve real-world financial challenges.
 
 I am especially motivated to build accessible fintech solutions that lower barriers to entry for individuals seeking financial knowledge, market literacy, and practical tools. My goal is to create platforms that are free or low-cost, empowering more people to learn about finance and participate confidently in the industry.
 
